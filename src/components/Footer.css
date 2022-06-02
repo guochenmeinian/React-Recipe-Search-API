@@ -1,0 +1,19 @@
+.footer {
+    color: white;
+    text-align: center;
+    line-height: 25px;
+    height: 40px; 
+    position: fix; 
+    bottom: 0;
+    width: 100%; 
+    opacity: 0.75;
+    padding-bottom: 100px;
+}
+
+a {
+    color: whitesmoke;
+}
+
+a:hover {
+    color: whitesmoke;
+}
