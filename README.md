@@ -8,7 +8,9 @@
 > - Asynchronous API (async/await)
 > - JSX, components, props, css modules, etc.
 
-React.js, JavaScript, HTML, CSS/Bootstrap, not deployed yet
+React.js, JavaScript, HTML, CSS/Bootstrap, deployed using AWS Amplify
+
+
 
 ## Available Scripts
 
