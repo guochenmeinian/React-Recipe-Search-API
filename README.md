@@ -1,4 +1,4 @@
-# React Recipe Search Application (front-end) https://master.d3n4a05eyhq82h.amplifyapp.com
+# React Recipe Search Application (front-end)
 #### The purpose of this project is to practice React.js and API fetching.
 
 #### This website uses the Recipe Search API from Edemam.com. This API has the data of tens of thousands of foods, simply search any type of dish you like and it will provide you with ingredients as well as calories.
